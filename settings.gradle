@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "the_sheet"
+rootProject.name = "Dashboard"
 include ':app'
